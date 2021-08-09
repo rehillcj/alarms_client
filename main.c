@@ -132,7 +132,7 @@ int main(int argc, char *argv[]){
 				printf("\t-v        : run in verbose mode (implies -d)\n");
 				printf("\t-c        : run in curses mode (implies -d -v)\n");
 				printf("\t-h        : print this message\n\n");
-				printf("alarm controller, version 0.10\n");
+				printf("alarm client, version 0.10\n");
 				printf("Copyright 2021 Parnart, Inc.\n\n");
 				exit(-1);
 				break;
